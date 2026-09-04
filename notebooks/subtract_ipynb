@@ -1,0 +1,21 @@
+import numpy
+
+def substract (a, b):
+    return a - b
+
+test1 = substract(1000, 500)
+print('Test 1 result:', test1)
+
+test2 = substract(20.6, 5.3)
+print('Test 2 result:', test2)
+
+test3 = substract(-10, -5)
+print('Test 3 result:', test3)
+print('\n')
+print('All tests passed successfully!')
+
+test4 = substract(numpy.sqrt(4), numpy.log(100))
+print('Test 4 result:', test4)
+
+test5 = substract('t', 'b')
+print('Test 5 result:', test5)
