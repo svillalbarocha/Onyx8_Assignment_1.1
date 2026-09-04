@@ -27,3 +27,8 @@ Output: 2
 multiply(a, b) gives the product of a and b.
 Added function square(), which uses the function multiply with the same numbers for a and b.
 
+
+
+Extension functions
+
+distance_from_zero(x) uses the substract function to calculate the distance between the input x and 0.
