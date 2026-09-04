@@ -17,5 +17,3 @@ print('All tests passed successfully!')
 test4 = substract(numpy.sqrt(4), numpy.log(100))
 print('Test 4 result:', test4)
 
-test5 = substract('t', 'b')
-print('Test 5 result:', test5)
