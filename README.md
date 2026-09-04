@@ -35,3 +35,6 @@ Example:
 values[1,2,3,4,5]
 test = sum_list(values)
 print(test) will return 15
+
+
+2. distance_from_zero(x) uses the substract function to calculate the distance between the input x and 0.
