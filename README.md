@@ -25,12 +25,15 @@ Output: 2
 
 3. Multiply 
 multiply(a, b) gives the product of a and b.
+Added function square(), which uses the function multiply with the same numbers for a and b.
+
 
 Extra Functions:
 
 1. Sum_list
 This functions takes an array of numbers as an input and returns the sum of them, recalling the previously defined function add.
 
+distance_from_zero(x) uses the substract function to calculate the distance between the input x and 0.
 Example:
 values[1,2,3,4,5]
 test = sum_list(values)
