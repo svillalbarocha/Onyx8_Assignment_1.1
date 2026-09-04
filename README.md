@@ -2,7 +2,7 @@
 
 Assignment 1.
 Group: Onyx 8 
-Date: 04 / 09 / 2026
+Date: 04 / 09 / 2026 10:00
 
 Function
 1. Add
