@@ -25,3 +25,5 @@ Output: 2
 
 3. Multiply 
 multiply(a, b) gives the product of a and b.
+Added function square(), which uses the function multiply with the same numbers for a and b.
+
